@@ -11,7 +11,9 @@ A little background... These scripts were written 2 years ago for Windows Server
 * Windows Server 2012
 
 [RDP-wrapper](https://github.com/stascorp/rdpwrap) library was installed on the servers as well and will be required to setup privilege escalation for shadow without user prompt.
+
 ![Screenshot of RDP Wrapper conf](Screenshot_6.png)
+
 ##### Usage:
 Change the following line:
 ```
